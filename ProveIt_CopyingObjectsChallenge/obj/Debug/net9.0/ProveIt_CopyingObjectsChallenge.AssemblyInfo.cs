@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProveIt_CopyingObjectsChallenge")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+08b540a3c7bf03224a79c96309359d78ff85026d")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProveIt_CopyingObjectsChallenge")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProveIt_CopyingObjectsChallenge")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
